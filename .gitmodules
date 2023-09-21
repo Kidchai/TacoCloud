@@ -1,0 +1,3 @@
+[submodule "taco-cloud"]
+	path = taco-cloud
+	url = git@github.com:Kidchai/taco-cloud.git
