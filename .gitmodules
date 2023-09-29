@@ -4,3 +4,6 @@
 [submodule "auth-server"]
 	path = auth-server
 	url = git@github.com:Kidchai/taco-cloud-auth-server.git
+[submodule "taco-cloud-admin"]
+	path = taco-cloud-admin
+	url = git@github.com:Kidchai/taco-cloud-admin.git
